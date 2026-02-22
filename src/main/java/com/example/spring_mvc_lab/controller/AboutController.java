@@ -14,7 +14,7 @@ public class AboutController {
 
         model.addAttribute("appName", "Spring MVC Lab");
         model.addAttribute("version", "1.0");
-        model.addAttribute("author", "Karistin Simbolon");
+        model.addAttribute("author", "Adila Dwi Septiani");
 
         List<String> technologies = List.of(
                 "Spring Boot",
